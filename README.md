@@ -1,5 +1,5 @@
 # LAB - Class 02
-## Project: Snakes Cafe
+## Project: Math Series
 ### Author: Gordon P Reilley Jr
 ### Links and Resources
 back-end server url (when applicable)
@@ -22,6 +22,4 @@ e.g. python main.py
 ### How to use your library (where applicable)
 ###### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- Used pytest to test all functions.
